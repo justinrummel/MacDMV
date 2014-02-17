@@ -2,6 +2,7 @@
 build
 .idea
 landslide/.idea
+presentation.html
 *.pdf
 samples/.DS_Store
 *.swp
